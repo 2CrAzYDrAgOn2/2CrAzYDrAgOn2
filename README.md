@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @2CrAzYDrAgOn2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C#(Windows Forms, Xamarin, Unity), Java, Python, 1С, HTML, CSS, JavaScript, Pascal, Basic, C, C++
 - 💞️ I’m looking to collaborate on an app
